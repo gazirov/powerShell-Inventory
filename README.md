@@ -19,10 +19,10 @@ Run the script in PowerShell.
 Enter the requested information when prompted by the script (administrator login, user login, screen diagonal).
 The script will generate a JSON file with system information and send it to the REST service.
 
-###Notes
+### Notes
 The script saves the JSON to the file C:\Temp\inventori.json for debugging purposes. This can be commented out if not needed.
 The data transmission to the REST service is commented out for security. Uncomment the relevant block if you wish to send the data.
 Ensure you have the necessary permissions to execute all commands and access the specified paths and services.
 
-###Limitations
+### Limitations
 The map for decoding monitor vendor codes may be incomplete due to the presence of many new Chinese brands.

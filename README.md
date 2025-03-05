@@ -1,5 +1,5 @@
 # Description
-The Inventory.ps1 script is designed to collect information about the computer on which it is executed and send this data in JSON format to a REST service. It gathers system data, including information about the CPU, memory, disks, monitors, network interfaces, installed applications, and printers.
+The ``` Inventory.ps1 ``` script is designed to collect information about the computer on which it is executed and send this data in JSON format to a REST service. It gathers system data, including information about the CPU, memory, disks, monitors, network interfaces, installed applications, and printers.
 
 ### Features
 System Information Collection: The script retrieves data about the processor, RAM, hard disks, monitors, network interfaces, printers, and installed software.
